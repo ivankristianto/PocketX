@@ -519,10 +519,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ivan/Works/PocketX"
+		"/Users/ivan/Works/PocketX",
+		"/Users/ivan/Works/PocketX/src",
+		"/Users/ivan/Works/PocketX/src/components"
 	],
 	"file_history":
 	[
+		"/Users/ivan/Works/PocketX/src/components/App.js",
+		"/Users/ivan/Works/PocketX/src/index.js",
+		"/Users/ivan/Works/reactjs/helloreact/src/index.js",
+		"/Users/ivan/Works/reactjs/helloreact/src/components/App.js",
+		"/Users/ivan/Works/reactjs/helloreact/src/components/App.test.js",
+		"/Users/ivan/Works/PocketX/src/index.css",
+		"/Users/ivan/Works/reactjs/helloreact/src/styles/App.css",
+		"/Users/ivan/Works/PocketX/package.json",
+		"/Users/ivan/Works/PocketX/public/favicon.ico",
+		"/Users/ivan/Works/reactjs/helloreact/public/index.html",
+		"/Users/ivan/Works/PocketX/public/index.html",
+		"/Users/ivan/Works/PocketX/.gitignore",
+		"/Users/ivan/Works/PocketX/README.md",
+		"/Users/ivan/Works/PocketX/LICENSE",
 		"/Users/ivan/Works/workdev/htdocs/workdev/v4/functions.php",
 		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/dashboard/reply-custom-request.php",
 		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/classes/abb_care.class.php",
@@ -636,21 +652,7 @@
 		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/members/personal-details.php",
 		"/Users/ivan/Works/workdev/htdocs/workdev/v4/vendor/maknz/slack/src/Facades/Slack.php",
 		"/Users/ivan/Works/workdev/htdocs/workdev/v4/template-survey-thankyou.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/dashboard/blog-post-stats.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/classes/abb_posts_visits.class.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/template-dashboard-blog-post-stats.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/template-dashboard-liked-blog-posts.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/dashboard/list-liked-blog-posts.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/template-dashboard-single-custom-request.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/dashboard/all-users.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/assets/images/vip-badge.svg",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/template-all-users.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/dashboard/new-ticket.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/oauth/config.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/oauth/endpoint.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/dashboard/general-stats.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/classes/abb_ticket_logs.class.php",
-		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/classes/abb_mini_popups.class.php"
+		"/Users/ivan/Works/workdev/htdocs/workdev/v4/app/views/dashboard/blog-post-stats.php"
 	],
 	"find":
 	{
